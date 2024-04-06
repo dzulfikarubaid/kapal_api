@@ -13,7 +13,7 @@ httpcore
 httpx
 hyperframe
 idna
-mysqlclient
+pymysql
 packaging
 pillow
 pytchat
