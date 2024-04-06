@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'server.wsgi.application'
+WSGI_APPLICATION = 'server.wsgi.app'
 
 AUTH_USER_MODEL = 'app.User'
 
